@@ -22,7 +22,6 @@ https://youtu.be/TYO0KbbRAI8
     ![Untitled2](https://user-images.githubusercontent.com/67767912/204736353-d4e7dc10-ea46-420c-84ef-56a958ec8e33.png)
 
     
-    - 혈압의 결정 요인은 심장의 수축과 확장 기능에 의해 뿜어져 나오는 혈액량과 혈관의 직경에 따른 문제가 있다. 혈압은 위의 표와 같이 정상 혈압과 고혈압으로 구분할 수 있다.
 - 문제 해결(기능과 기대효과)
     - 다양한 홈 IoT 기기를 설계할 수 있다.
     - IoT 장치를 개별 제어를 할 수 있다
