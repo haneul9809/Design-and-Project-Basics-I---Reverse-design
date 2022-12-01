@@ -2,11 +2,12 @@
 똑똑한 우리집(Smart Home)
 ## 발표 영상 링크
 https://youtu.be/TYO0KbbRAI8
+## 역설계 최종 보고서
+https://konyang-my.sharepoint.com/:t:/g/personal/19615050_konyang_ac_kr/EYdGnu11bsVPl6TjVZjY47UBGzq_GhAsjecAof3DAxOPPg?e=k4m1D6
 
 ## 🗓️ 개발 기간
 
-2020/3/2 ~ 2020/4/19
-
+2020/3/14 ~ 2020/4/13
 ## 📜서비스 내용
 
 - 문제 제기
